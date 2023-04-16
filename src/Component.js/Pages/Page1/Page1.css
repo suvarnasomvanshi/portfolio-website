@@ -1,0 +1,230 @@
+.Page1{
+    display: flex;
+    height: 95vh;
+    width: 100vw;
+    border-radius: 4px;
+    background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s=170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.box11{
+    margin-top: 20vh;
+    margin-left: 53vw;
+    
+}
+
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20vh;
+    margin-left: -25vw;
+    column-gap: 1vw;
+}
+
+
+@keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    35% {
+      transform: rotate(45deg);
+    }
+  }
+  
+  .rotating-text-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rotating-icon {
+    animation: rotate 1s linear infinite; 
+  }
+  
+  .icon {
+    font-size: 28px;
+  }
+  
+
+
+
+
+  @media (max-width:467px){
+
+    .Page1{
+      display: flex;
+      height: 100vh;
+      width: 100vw;
+      border-radius: 4px;
+      background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+     
+  }
+  .box11{
+      margin-top: 7vh;
+      margin-left: 7vw;
+      
+      
+  }
+  
+  .footer1{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 28vh;
+      margin-left: -5vh;
+      column-gap: 30px;
+  }
+  
+  
+  @keyframes rotate {
+      0% {
+        transform: rotate(0deg);
+      }
+      35% {
+        transform: rotate(45deg);
+      }
+    }
+    
+    .rotating-text-container {
+      display: flex;
+      align-items: center;
+    }
+    
+    .rotating-icon {
+      animation: rotate 1s linear infinite; 
+    }
+    
+    .icon {
+      font-size: 28px;
+    }
+    
+  
+  
+  
+    
+  }
+  @media (min-width:468px) and (max-width:767px){
+    .Page1{
+      display: flex;
+      height: 95vh;
+      width: 100vw;
+      border-radius: 4px;
+      background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    .box11{
+      margin-top: 7vh;
+      margin-left: 7vw;
+      
+      
+  }
+    
+  .footer1{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 28vh;
+      margin-left: -5vh;
+      column-gap: 30px;
+  }
+    
+    
+  @keyframes rotate {
+      0% {
+        transform: rotate(0deg);
+      }
+      35% {
+        transform: rotate(45deg);
+      }
+    }
+    
+    .rotating-text-container {
+      display: flex;
+      align-items: center;
+    }
+    
+    .rotating-icon {
+      animation: rotate 1s linear infinite; 
+    }
+    
+    .icon {
+      font-size: 28px;
+    }
+    
+    
+  
+  
+  
+  }
+ 
+
+  @media (min-width:768px) and (max-width:1024px){
+    .Page1{
+      display: flex;
+      height: 95vh;
+      width: 100vw;
+      border-radius: 4px;
+      background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+     
+  }
+
+  .box11{
+    margin-top: 7vh;
+    margin-left: 7vw;
+    
+    
+}
+  
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28vh;
+    margin-left: -5vh;
+    column-gap: 30px;
+}
+  
+  
+@keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    35% {
+      transform: rotate(45deg);
+    }
+  }
+  
+  .rotating-text-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rotating-icon {
+    animation: rotate 1s linear infinite; 
+  }
+  
+  .icon {
+    font-size: 28px;
+  }
+  
+  
+  
+  
+  }
+ 
+
+
+
+
+

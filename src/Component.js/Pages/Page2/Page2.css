@@ -1,0 +1,530 @@
+.Page2{
+
+    display: flex;
+    flex-wrap: wrap;
+    height:80vh;
+    width: 80vw;
+    margin-left: 10vw;
+    margin-top: 5vh;
+    background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s=170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+  width:40vw;
+  height:80vh;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(6, 3, 71);
+}
+
+
+.img{
+    display: flex;
+    margin-top: 10vh;
+    margin-left: 5vw;
+    height: 23vh;
+    width: 8.5vw;
+    border-radius: 200vh;
+    position: absolute;
+}
+
+.cbox1{
+    width: 16vw;
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: 800;
+
+    position: absolute;
+    margin-left: 17vw;
+    margin-top: 20vh;
+}
+
+.cbox2{
+  display: flex;
+  margin-top: 40vh;
+  width:30vw;
+  height:30vh;
+  color: aliceblue;
+  margin-left:5vw;
+}
+
+.container2{
+
+height: 80vh;
+width: 40vw;
+background:rgb(83, 64, 104);
+}
+
+
+.box1{
+    margin-top: 10vh;
+    margin-left: 10vw;
+    width:30vw;
+    height:30vh;
+    border-radius: 4px solid black;
+}
+
+.sp1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7vh;
+    width:20vw;
+    background:rgb(4, 91, 157);
+    padding-left: 1vw;
+padding-right: 1vw;
+   
+}
+.sp2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    width:20vw;
+    background:rgb(34, 72, 110);
+ 
+    padding-left: 1vw;
+padding-right: 1vw;
+padding-bottom: 2vh;
+color: rgb(192, 188, 183);
+
+}
+
+.box2{
+    width:30vw;
+    height:30vh;
+    margin-left: 10vw;
+    
+}
+.s1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7vh;
+    width:20vw;
+    background:rgb(4, 91, 157);
+    padding-left: 1vw;
+     padding-right: 1vw;
+}
+
+.s2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+    width:20vw;
+    background:rgb(34, 72, 110);
+    
+    padding-left: 1vw;
+    padding-right: 1vw;
+    color: rgb(192, 188, 183);
+
+}
+
+
+
+
+
+@media (max-width:467px){
+    
+
+
+    .Page2{
+
+        display: flex;
+        flex-wrap: wrap;
+        height:170vh;
+        width: 100vw;
+        
+        margin-top: 0vh;
+        background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s=170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+
+    .container{
+        width:100vw;
+        height:90vh;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(6, 3, 71);
+      }
+      
+      
+      .img{
+          display: flex;
+          margin-top: 2vh;
+          margin-left: 2vw;
+          height: 23vh;
+          width: 20vw;
+          border-radius: 200vh;
+        
+      }
+      
+      .cbox1{
+          width: 50vw;
+          color: aliceblue;
+          font-size: x-large;
+          font-weight: 800;
+      
+          position: absolute;
+          margin-left: 17vw;
+          margin-top: 2vh;
+      }
+      
+      .cbox2{
+         display: flex;
+         margin-top: 32vh;
+         width:80vw;
+         height:30vh;
+         color: aliceblue;
+         margin-left:5vw;
+         padding-right: 2vw;
+      }
+
+
+
+
+      
+      .container2{
+      
+        height: 80vh;
+        width: 100vw;
+        
+        margin-left:0vw;
+        margin-top: 2vh;
+      }
+      
+      
+      .box1{
+          margin-top: 10vh;
+          width:65vw;
+          height:30vh;
+          border-radius: 4px solid black;
+         margin-left: -2vw;
+          margin-top: 2vh;
+      }
+      
+      .sp1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:80vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+          padding-right: 1vw;
+         
+      }
+      .sp2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30vh;
+          width:80vw;
+          background:rgb(34, 72, 110);
+          padding-left: 1vw;
+          padding-right: 1vw;
+          padding-bottom: 2vh;
+          color: rgb(192, 188, 183);
+      
+      }
+      
+      .box2{
+          width:80vw;
+          height:40vh;
+          margin-top: 5vh;
+          margin-left: -2vw;
+          
+          
+      }
+      .s1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:80vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+           padding-right: 1vw;
+      }
+      
+      .s2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30vh;
+          width:80vw;
+          background:rgb(34, 72, 110);
+          
+          padding-left: 1vw;
+          padding-right: 1vw;
+          color: rgb(192, 188, 183);
+      }
+}
+@media (min-width:468px) and (max-width:767px){
+     
+    .Page2{
+        display: flex;
+        flex-wrap: wrap;
+        height:200vh;
+        width: 80vw;
+        margin-left: 0vw;
+        margin-top: 0vh;
+        background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s=170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .container{
+        width:85vw;
+        height:80vh;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(6, 3, 71);
+      }
+      
+      
+      .img{
+          display: flex;
+          margin-top: 2vh;
+          margin-left: 7vw;
+          height: 23vh;
+          width: 20vw;
+          border-radius: 200vh;
+        
+      }
+      
+      .cbox1{
+          width: 50vw;
+          color: aliceblue;
+          font-size: x-large;
+          font-weight: 800;
+      
+          position: absolute;
+    
+          margin-top: 7vh;
+      }
+      
+      .cbox2{
+         display: flex;
+         margin-top: 32vh;
+         width:70vw;
+         height:30vh;
+         color: aliceblue;
+         padding-left: 6vw;
+         padding-right: 2vw;
+      }
+      
+      
+      .container2{
+      
+        height: 60vh;
+        width: 100vw;
+        margin-top:-5vh;
+        margin-left:2vw;
+        background-color: blue;
+        column-gap: 2vh;
+
+      }
+      
+      
+      .box1{
+        margin-top: -20vh;
+          width:65vw;
+          height:30vh;
+          border-radius: 4px solid black;
+         margin-left: -2vw;
+          
+      }
+      
+      .sp1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:80vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+          padding-right: 1vw;
+         
+      }
+      .sp2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30vh;
+          width:80vw;
+          background:rgb(34, 72, 110);
+          padding-left: 1vw;
+          padding-right: 1vw;
+          padding-bottom: 2vh;
+          color: rgb(192, 188, 183);
+      
+      }
+      
+      .box2{
+    
+          width:80vw;
+          height:40vh;
+          margin-top: 2vh;
+          margin-left: -2vw;
+          
+          
+      }
+      .s1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:80vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+           padding-right: 1vw;
+      }
+      
+      .s2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30vh;
+          width:80vw;
+          background:rgb(34, 72, 110);
+          
+          padding-left: 1vw;
+          padding-right: 1vw;
+          color: rgb(192, 188, 183);
+      }
+}
+@media (min-width:768px) and (max-width:1024px){
+      
+
+    .Page2{
+        display: flex;
+        flex-wrap: wrap;
+        height:100vh;
+        width: 100vw;
+    
+        margin-top: 0vh;
+        background-image: url(" https://media.istockphoto.com/id/1176497914/vector/abstract-blue-background.jpg?s=170667a&w=0&k=20&c=Vegvpsh40Apstv6wwgMTk8CcCBljiMfRjqyPsnwBTDQ=");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .container{
+        width:40vw;
+        height:100vh;
+        align-items: center;
+        margin-left: 5vw;
+        justify-content: center;
+        background-color: rgb(6, 3, 71);
+      }
+      
+      
+      .img{
+          display: flex;
+          margin-top: 10vh;
+          margin-left: 5vw;
+          height: 23vh;
+          width: 8.5vw;
+          border-radius: 200vh;
+          position: absolute;
+      }
+      
+      .cbox1{
+          width: 16vw;
+          color: aliceblue;
+          font-size: x-large;
+          font-weight: 800;
+      
+          position: absolute;
+          margin-left: 17vw;
+          margin-top: 20vh;
+      }
+      
+      .cbox2{
+        display: flex;
+        margin-top: 40vh;
+        width:30vw;
+        height:30vh;
+        color: aliceblue;
+        margin-left:2vw;
+      }
+      
+      .container2{
+      margin-left: -5vw;
+      height: 100vh;
+      width: 40vw;
+      background:rgb(83, 64, 104);
+      }
+      
+      
+      .box1{
+        
+          margin-left: 2vw;
+          width:30vw;
+          height:50vh;
+          border-radius: 4px solid black;
+      }
+      
+      .sp1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:30vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+      padding-right: 1vw;
+         
+      }
+      .sp2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 30vh;
+          width:30vw;
+          background:rgb(34, 72, 110);
+       
+          padding-left: 1vw;
+      padding-right: 1vw;
+      padding-bottom: 2vh;
+      color: rgb(192, 188, 183);
+      
+      }
+      
+      .box2{
+          width:30vw;
+          height:30vh;
+          margin-left: 2vw;
+      }
+      .s1{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 7vh;
+          width:30vw;
+          background:rgb(4, 91, 157);
+          padding-left: 1vw;
+           padding-right: 1vw;
+      }
+      
+      .s2{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 20vh;
+          width:30vw;
+          background:rgb(34, 72, 110);
+          
+          padding-left: 1vw;
+          padding-right: 1vw;
+          color: rgb(192, 188, 183);
+      }
+}
